@@ -40,6 +40,4 @@ const kitchenTV = new TV('Huawei', 'Kitchen TV', 500, 9, 'yes');
 const ironForBed = new Iron('Philips','Philips Iron', 100, 'triangle');
 
 kitchenTV.plugging();
-console.log(ironForBed.plug)
 ironForBed.plugging();
-console.log(ironForBed.plug)
